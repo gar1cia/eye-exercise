@@ -1,2 +1,3 @@
 # eye-exercise
-Create eyes that follow your cursor.
+Run the webpage index.html.
+Eyes will now follow your cursor.
